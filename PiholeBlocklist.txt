@@ -1,1 +1,2 @@
-1234
+gstatic.com
+googleapis.com
