@@ -4,7 +4,6 @@ device-provisioning.googleapis.com
 firebaseremoteconfig.googleapis.com
 fonts.googleapis.com
 gcm-http.googleapis.com
-lycraservice-pa.googleapis.com
 safesearch.googleapis.com
 userpaneltv-pa.googleapis.com
 ccp-lh.googleusercontent.com
@@ -18,3 +17,5 @@ mtalk.google.com
 tools.google.com
 dns.google.de
 dns.google.com
+i.ytimg.com
+yt3.ggpht.com
