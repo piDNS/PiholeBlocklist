@@ -1,9 +1,7 @@
-
 fonts.googleapis.com
 device-provisioning.googleapis.com
-firebaseremoteconfig.googleapis.com
 gcm-http.googleapis.com
-lycraservice-pa.googleapis.com	
+lycraservice-pa.googleapis.com
 ccp-lh.googleusercontent.com
 ocsp.pki.goog
 pki-goog.l.google.com
@@ -12,7 +10,6 @@ www.google.de
 google.de
 google.com
 mtalk.google.com
-time.google.com
 tools.google.com
 dns.google.de
 dns.google.com
